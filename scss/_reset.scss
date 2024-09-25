@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap");
+
+// $warning: #FFF1DB;
+$warning : #536493;
+$dark : #FFCAD4; 
+//#DA7297;
+$info : #536493;
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+body { 
+  background:  #D2E0FB;
+}
+
+.text-pinktua {
+  color : #EF5A6F;
+}
+
+.navbar-brand {
+  color: #EF5A6F;
+}
+
+.navbar-brand:hover {
+  color: #EF5A6F;
+}
